@@ -1,0 +1,14 @@
+- I used gemini cli to build live cricket score website with given rss feed: https://static.cricinfo.com/rss/livescores.xml
+
+- My prompts: 
+1. I would like to create a python Flask application that shows me a list of live scores of cricket matches. there is a RSS Feed for this that is abailable over here:
+  https://static.cricinfo.com/rss/livescores.xml. Lets use that.
+2. improve html ui,Add css styles with background gold and black color
+3. add periodic refresh after 30 seconds,also add seaeching and filtering bar
+4. add reusable components or improved architecture,and also create a navbar
+5. add more sections in navbar  home,about,contact,signup
+6. add more css and create contact,about and signup pages must be responsive
+7. write css seprately in a static folder and add all four sections in burger menu
+8. add requirment.txt with packages used in the project,fix the burger menu still not working
+
+- I applied css, added sections & create burger menu 
